@@ -1,13 +1,22 @@
-<h1>An software guy trying to do cool stuff when it works.</h1>
-<p>Software Dev Student | Lover of Tech, Coffee, Cats, Video Games, Open-source Software, hardware and Comics.</p>
+<div align="center">
+  
+  <h1>👋 Hi, I'm Eros! A software dev trying to build cool stuff (when it compiles).</h1>
+  
+  <p><strong>Software Dev Student</strong> <br> 
+  💻 Tech | ☕ Coffee | 🐱 Cats | 🎮 Video Games | 📖 Comics | ⚙️ Open-Source & Hardware</p>
 
-<h2>Languages & Tools I've Used</h2>
+  <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,java,mysql,git,linux,unity,blender,ps,kotlin,github,gitlab,gradle,azure)](https://skillicons.dev)
-
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/eros-byrne-91869214b/">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  <h2>🛠️ Languages & Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,java,mysql,git,linux,unity,blender,ps,kotlin,github,gitlab,gradle,azure" alt="My Skills" />
   </a>
-</p>
+
+  <br><br>
+
+  <h2>⚡️ Let's Connect</h2>
+  <a target="_blank" href="https://www.linkedin.com/in/eros-byrne-91869214b/">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
+  </a>
+
+</div>
