@@ -1,9 +1,9 @@
 <h1>An software guy trying to do cool stuff when it works.</h1>
 <p>Software Dev Student | Lover of Tech, Coffee, Cats, Video Games, Open-source Software, hardware and Comics.</p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Languages & Tools I've Used</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,java,mysql,git,linux,unity,blender,ps,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,java,mysql,git,linux,unity,blender,ps,kotlin,github,gitlab,gradle,azure)](https://skillicons.dev)
 
 <h2>⚡️ Where to find me</h2>
 <p>
