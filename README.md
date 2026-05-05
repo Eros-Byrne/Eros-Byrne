@@ -1,4 +1,4 @@
-# A software guy building cool things (and hoping they work).
+# A hardware/software guy building cool things (when it compiles).
 
 **Software Dev Student** passionate about open-source, hardware, and video games. Powered entirely by coffee and cats. ☕🐈
 
