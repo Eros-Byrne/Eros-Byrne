@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PASTE_DIRECT_IMAGE_LINK_HERE" alt="Kingdom Hearts Decal" width="300">
+  <img src="https://i.pinimg.com/originals/c0/70/c2/c070c2db55da6ab646e89d9eebacd018.jpg" alt="Profile Banner" width="300">
   <br>
   <i>"What we know is a drop, what we don't know is an ocean,"</i>
 </div>
