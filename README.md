@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c0/70/c2/c070c2db55da6ab646e89d9eebacd018.jpg" alt="Profile Banner" width="300">
+  <img src="https://github.com/user-attachments/assets/f66579d6-3dd3-4cad-b670-32671412fe40" alt="msn guy" width="180">
   <br>
   <i>"What we know is a drop, what we don't know is an ocean,"</i>
 </div>
